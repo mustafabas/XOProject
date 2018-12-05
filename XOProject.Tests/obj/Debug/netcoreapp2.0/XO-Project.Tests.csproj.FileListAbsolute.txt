@@ -1,0 +1,16 @@
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.deps.json
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.runtimeconfig.json
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.runtimeconfig.dev.json
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.pdb
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.pdb
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.AssemblyInfoInputs.cache
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.AssemblyInfo.cs
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.csproj.CopyComplete
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.pdb

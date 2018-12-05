@@ -1,0 +1,10 @@
+C:\Users\ERKAN\Desktop\crossover\XOProject\bin\Debug\netcoreapp2.0\XO-Project.deps.json
+C:\Users\ERKAN\Desktop\crossover\XOProject\bin\Debug\netcoreapp2.0\XO-Project.runtimeconfig.json
+C:\Users\ERKAN\Desktop\crossover\XOProject\bin\Debug\netcoreapp2.0\XO-Project.runtimeconfig.dev.json
+C:\Users\ERKAN\Desktop\crossover\XOProject\bin\Debug\netcoreapp2.0\XO-Project.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject\bin\Debug\netcoreapp2.0\XO-Project.pdb
+C:\Users\ERKAN\Desktop\crossover\XOProject\obj\Debug\netcoreapp2.0\XO-Project.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN\Desktop\crossover\XOProject\obj\Debug\netcoreapp2.0\XO-Project.AssemblyInfoInputs.cache
+C:\Users\ERKAN\Desktop\crossover\XOProject\obj\Debug\netcoreapp2.0\XO-Project.AssemblyInfo.cs
+C:\Users\ERKAN\Desktop\crossover\XOProject\obj\Debug\netcoreapp2.0\XO-Project.dll
+C:\Users\ERKAN\Desktop\crossover\XOProject\obj\Debug\netcoreapp2.0\XO-Project.pdb
